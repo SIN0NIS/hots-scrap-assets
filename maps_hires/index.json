@@ -1,0 +1,122 @@
+{
+ "volskaya_foundry": {
+  "w": 8000,
+  "h": 6710,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "alterac_pass": {
+  "w": 8000,
+  "h": 6750,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "battlefield_of_eternity": {
+  "w": 8000,
+  "h": 6710,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "blackheart_s_bay": {
+  "w": 8000,
+  "h": 7250,
+  "top": 4,
+  "tile": 512,
+  "tiles": 325,
+  "max": 8000
+ },
+ "braxis_holdout": {
+  "w": 8000,
+  "h": 6750,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "cursed_hollow": {
+  "w": 8000,
+  "h": 6750,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "dragon_shire": {
+  "w": 8000,
+  "h": 6710,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "garden_of_terror": {
+  "w": 8000,
+  "h": 6750,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "hanamura_temple": {
+  "w": 8000,
+  "h": 8000,
+  "top": 4,
+  "tile": 512,
+  "tiles": 341,
+  "max": 8000
+ },
+ "haunted_mines": {
+  "w": 8000,
+  "h": 8000,
+  "top": 4,
+  "tile": 512,
+  "tiles": 341,
+  "max": 8000
+ },
+ "infernal_shrines": {
+  "w": 8000,
+  "h": 6710,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "sky_temple": {
+  "w": 8000,
+  "h": 6968,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "tomb_of_the_spider_queen": {
+  "w": 8000,
+  "h": 6968,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "towers_of_doom": {
+  "w": 8000,
+  "h": 6750,
+  "top": 4,
+  "tile": 512,
+  "tiles": 301,
+  "max": 8000
+ },
+ "warhead_junction": {
+  "w": 8000,
+  "h": 7750,
+  "top": 4,
+  "tile": 512,
+  "tiles": 341,
+  "max": 8000
+ }
+}
